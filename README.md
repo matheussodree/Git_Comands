@@ -1,2 +1,5 @@
-# Git_Comands
-Comands used in Git
+# Git_Commands
+
+###Commands:
+
+git init --> initialize a git repository
