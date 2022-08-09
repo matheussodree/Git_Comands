@@ -1,4 +1,4 @@
-# Git_Commands
+# Git Commands
 
 ###Commands:
 
