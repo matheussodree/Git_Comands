@@ -1,6 +1,7 @@
-📚 # Git Commands 
 
-###Commands:
+  ## Git Commands 📚
+
+### Commands:
 
 git init --> initialize a git repository
 
