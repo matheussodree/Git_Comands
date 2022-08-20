@@ -18,3 +18,5 @@ git pull --> get the code
 git clone --> clone repository
 
 git rm "filename" --> remove file
+
+git log --> change history
