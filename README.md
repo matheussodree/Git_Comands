@@ -22,3 +22,5 @@ git rm "filename" --> remove file
 git log --> change history
 
 git mv "name" "name" --> rename file
+
+git checkout --> undo changes
