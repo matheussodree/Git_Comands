@@ -24,3 +24,5 @@ git log --> change history
 git mv "name" "name" --> rename file
 
 git checkout --> undo changes
+
+.gitignore --> ignore files
