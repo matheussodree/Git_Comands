@@ -26,3 +26,5 @@ git mv "name" "name" --> rename file
 git checkout --> undo changes
 
 .gitignore --> ignore files
+
+git reset --hard  --> undo all changes
